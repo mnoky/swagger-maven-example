@@ -18,11 +18,11 @@
   "host" : "petstore.swagger.wordnik.com",
   "basePath" : "/api",
   "tags" : [ {
-    "name" : "pet"
-  }, {
     "name" : "store"
   }, {
     "name" : "user"
+  }, {
+    "name" : "pet"
   } ],
   "schemes" : [ "http", "https" ],
   "paths" : {

@@ -13,7 +13,7 @@
             <plugin>
                 <groupId>com.github.kongchen</groupId>
                 <artifactId>swagger-maven-plugin</artifactId>
-                <version>3.1.0</version>
+                <version>3.1.1-SNAPSHOT</version>
                 <configuration>
                     <apiSources>
                       <apiSource>
@@ -48,7 +48,7 @@
                             <swaggerDirectory>generated/swagger-ui</swaggerDirectory>
                             <securityDefinitions>
                                 <securityDefinition>
-                                    <json>/securityDefinition.json</json>
+                                    <json>/securityDefinitions.json</json>
                                 </securityDefinition>
                             </securityDefinitions>
                         </apiSource>
