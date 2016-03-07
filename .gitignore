@@ -1,3 +1,4 @@
 .idea/
+.sonar/
 swagger-maven-example.iml
 target/
